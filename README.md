@@ -1,1 +1,1 @@
-# Hotel-Manager-Application
+# Hotel Waiter
